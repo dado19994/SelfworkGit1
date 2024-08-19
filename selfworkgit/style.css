@@ -1,0 +1,18 @@
+header{
+    height: 100vh;
+    background-image: url(https://picsum.photos/2000);
+    background-position: center;
+    background-size: cover;
+}
+
+.custom-h1{
+    color: rgb(255, 237, 0);
+}
+
+.nav-custom{
+    background-color: rgb(69, 69, 69);
+}
+
+.custom-logo{
+    width: 100px;
+}
